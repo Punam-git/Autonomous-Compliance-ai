@@ -8,6 +8,7 @@ import Predictions from './pages/Predictions'
 import FinancialImpact from './pages/FinancialImpact'
 import BusinessUnits from './pages/BusinessUnits'
 import ActionPlan from './pages/ActionPlan'
+import CaseReplay from './pages/CaseReplay'
 import LiveAgents from './pages/LiveAgents'
 import Placeholder from './pages/Placeholder'
 
@@ -24,7 +25,7 @@ export default function App() {
             <Route                      path="/financial" element={<FinancialImpact />} />
             <Route                      path="/units"     element={<BusinessUnits />} />
             <Route                      path="/action"    element={<ActionPlan />} />
-            <Route                      path="/replay"    element={<Placeholder name="Case Replay" />} />
+            <Route                      path="/replay"    element={<CaseReplay />} />
             <Route                      path="/agents"    element={<LiveAgents />} />
           </Route>
         </Routes>
