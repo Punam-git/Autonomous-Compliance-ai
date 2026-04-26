@@ -93,13 +93,16 @@ http://localhost:5173
 * Initial setup complexity
 * Requires updates for changing regulations
 
- 🔮 Future Scope
-
+ 📈 Future Improvements
+ 
+* User login system
 * Integration with advanced AI models
 * Cloud deployment
 * Mobile application support
 * Automated audit reports
-* Multi-region compliance systems
+* Multi-region compliance systems 
+
+
 
 🤝 Contributing
 
