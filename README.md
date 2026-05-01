@@ -67,10 +67,6 @@ npm install
 
 npm run dev
 
- 5️⃣ Open in Browser
-
-http://localhost:5173
-
  📊 Use Cases
 
 * Banking and financial compliance
